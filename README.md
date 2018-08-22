@@ -1,7 +1,6 @@
 # robotframework-example-wikipedia
 
 ## Demo
-I'm sorry for quality, this is my first video!
 https://youtu.be/T5WSm6igwtg
 
 ## Requirements
